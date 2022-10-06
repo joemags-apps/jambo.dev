@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('./fonts/icomoon.eot?nl4odd');
+  src:  url('./fonts/icomoon.eot?nl4odd#iefix') format('embedded-opentype'),
+    url('./fonts/icomoon.ttf?nl4odd') format('truetype'),
+    url('./fonts/icomoon.woff?nl4odd') format('woff'),
+    url('./fonts/icomoon.svg?nl4odd#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i.ic {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ic-dialpad:before {
+  content: "\e901";
+}
