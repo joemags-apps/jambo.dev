@@ -1,7 +1,7 @@
 {
   "name": "Jambo Talk",
   "short_name": "Jambo",
-  "description": "### Self Sign Certs for testing ```sh openssl req -x509 -out certs/localhost.crt -keyout certs/localhost.key \\ -newkey rsa:2048 -nodes -sha256 \\ -subj '/CN=localhost' -extensions EXT -config <( \\ printf \"[dn]\\nCN=localhost\\n[req]\\ndistinguished_name = dn\\n[EXT]\\nsubjectAltName=DNS:localhost\\nkeyUsage=digitalSignature\\nextendedKeyUsage=serverAuth\") ``` <!-- sip:+263773640984@one.jambotalk.com -->",
+  "description": "### Jambo site description",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.8200b7.png",
