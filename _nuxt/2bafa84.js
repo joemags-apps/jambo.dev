@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{771:function(l,n,e){"use strict";e.r(n);var t=e(16),component=Object(t.a)({},(function(){return(0,this._self._c)("wallet-view")}),[],!1,null,null,null);n.default=component.exports;installComponents(component,{WalletView:e(372).default})}}]);
