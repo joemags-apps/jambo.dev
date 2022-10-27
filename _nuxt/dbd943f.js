@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{782:function(t,e,n){"use strict";n.r(e);var l={name:"ContactsPage",head:function(){return{title:"📞 Jambo Talk - Wallet"}}},o=n(16),component=Object(o.a)(l,(function(){return(0,this._self._c)("wallet-view")}),[],!1,null,null,null);e.default=component.exports;installComponents(component,{WalletView:n(383).default})}}]);
