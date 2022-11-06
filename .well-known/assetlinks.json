@@ -1,0 +1,7 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+  "namespace": "android_app",
+  "package_name": "com.jambotalk.dev1.twa",
+   "sha256_cert_fingerprints": ["7D:09:87:4B:BC:D5:99:FE:69:5A:32:1B:15:6D:C6:E8:02:A8:0B:61:36:73:51:2E:5A:BE:2B:D5:4E:1F:AD:E5"]}
+}]
